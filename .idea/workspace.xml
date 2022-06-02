@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76d34671-732b-4440-90c7-b3963e9187e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Menu/ControlPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Menu/DrawingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Menu/EmptySpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Menu/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Utility/GameUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Characters/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Characters/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Characters/Enemies/Drake.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Characters/Enemies/Drake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Characters/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Characters/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Data/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Data/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Lists/CharacterList.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Lists/CharacterList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Lists/ItemList.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Lists/ItemList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Objects/Health.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/Objects/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/System/Collision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/out/production/ScheletProiectPAOO/ForgottenWar/System/KeyEventManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Characters/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Characters/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Characters/Enemies/Drake.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Characters/Enemies/Drake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Characters/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Characters/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Data/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Data/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Lists/CharacterList.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Lists/CharacterList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Lists/ItemList.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Lists/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Objects/Health.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Pickups/Health.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Objects/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/Pickups/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Collision.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Combat/Collision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/KeyEventManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheForgottenWar/src/ForgottenWar/System/Movement/KeyEventManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28bdwl5xqrjrOSHeyXeqpotWru4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d34671-732b-4440-90c7-b3963e9187e1" name="Changes" comment="" />
+      <created>1651489467310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651489467310</updated>
+      <workItem from="1651489469871" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
